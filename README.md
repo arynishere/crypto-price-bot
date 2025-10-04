@@ -23,7 +23,7 @@ Example of bot messages:
 🪙 BTC: خرید 13,972,814,636 تومان | فروش 14,000,000,000 تومان
 💎 ETH: خرید 513,810,644 تومان | فروش 520,000,000 تومان
 
-csharp
+```csharp
 Copy code
 
 If there is a problem fetching prices:
@@ -31,12 +31,12 @@ If there is a problem fetching prices:
 💵 USDT: ❌ خطا در دریافت قیمت
 🪙 BTC: ❌ خطا در دریافت قیمت
 💎 ETH: ❌ خطا در دریافت قیمت
-
-```yaml
+```
 
 ---
 
 ## Requirements
+```yaml
 
 - Python 3.10+
 - [`python-telegram-bot`](https://pypi.org/project/python-telegram-bot/)
