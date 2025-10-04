@@ -80,23 +80,4 @@ Example message sent by the bot:
 💎 ETH: خرید 513,810,644 تومان | فروش 520,000,000 تومان
 
 ```
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-Author
-arynisHere
-
-GitHub: https://github.com/arynishere
-
-Telegram bot creator and crypto enthusiast
-
-```yaml
-
----
-
-If you want, I can also **create the full GitHub repository structure** for you with:  
-
-- `price_bot.py` (your main bot script)  
-- `README.md` (this one)  
-- `requirements.txt` with exact dependencies  
-```
