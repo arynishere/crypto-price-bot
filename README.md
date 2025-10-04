@@ -75,11 +75,12 @@ Usage
 
 Example message sent by the bot:
 
-yaml
-Copy code
+```yaml
 💵 USDT: خرید 114,476 تومان | فروش 115,000 تومان
 🪙 BTC: خرید 13,972,814,636 تومان | فروش 14,000,000,000 تومان
 💎 ETH: خرید 513,810,644 تومان | فروش 520,000,000 تومان
+
+```
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -90,8 +91,7 @@ GitHub: https://github.com/arynishere
 
 Telegram bot creator and crypto enthusiast
 
-yaml
-Copy code
+```yaml
 
 ---
 
@@ -100,7 +100,4 @@ If you want, I can also **create the full GitHub repository structure** for you 
 - `price_bot.py` (your main bot script)  
 - `README.md` (this one)  
 - `requirements.txt` with exact dependencies  
-
-This way, you can **push directly to GitHub** and it will be ready to use.  
-
-Do you want me to do that next?
+```
