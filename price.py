@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes, JobQueue
 
 TELEGRAM_TOKEN = "YOUR_TOKEN"
-CHAT_ID = "-1003187181841"  # Channel ID
+CHAT_ID = "-xxxxxxxxxx"  # Channel ID
 
 # Coins we want to track
 COINS = {
