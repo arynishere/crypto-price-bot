@@ -47,24 +47,29 @@ Install dependencies:
 
 ```bash
 pip install python-telegram-bot aiohttp
+```
 Setup
 Clone this repository:
 
-bash
+```bash
+
 Copy code
 git clone https://github.com/arynishere/crypto-price-telegram-bot.git
 cd crypto-price-telegram-bot
+```
 Edit the script and set your Telegram bot token and channel ID:
 
-python
+```python
 Copy code
 TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 CHAT_ID = "-100XXXXXXXXX"  # Your channel or group ID
+```
 Run the bot:
 
-bash
+```bash
 Copy code
 python price_bot.py
+```
 The bot will start sending cryptocurrency prices every 5 minutes and respond to /now commands.
 
 Usage
