@@ -32,8 +32,7 @@ If there is a problem fetching prices:
 🪙 BTC: ❌ خطا در دریافت قیمت
 💎 ETH: ❌ خطا در دریافت قیمت
 
-yaml
-Copy code
+```yaml
 
 ---
 
@@ -42,7 +41,7 @@ Copy code
 - Python 3.10+
 - [`python-telegram-bot`](https://pypi.org/project/python-telegram-bot/)
 - [`aiohttp`](https://pypi.org/project/aiohttp/)
-
+```
 Install dependencies:
 
 ```bash
