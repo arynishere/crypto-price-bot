@@ -18,15 +18,15 @@ A Telegram bot that provides real-time cryptocurrency prices from Bitpin for **U
 ## Screenshots
 
 Example of bot messages:
+```csharp
 
 💵 USDT: خرید 114,476 تومان | فروش 115,000 تومان
 🪙 BTC: خرید 13,972,814,636 تومان | فروش 14,000,000,000 تومان
 💎 ETH: خرید 513,810,644 تومان | فروش 520,000,000 تومان
 
-```csharp
-Copy code
-
+```
 If there is a problem fetching prices:
+```csharp
 
 💵 USDT: ❌ خطا در دریافت قیمت
 🪙 BTC: ❌ خطا در دریافت قیمت
